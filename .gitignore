@@ -1,0 +1,9 @@
+# macOS
+.DS_Store
+
+# VS Code settings
+.vscode/
+
+# Node-related (if you ever add npm)
+node_modules/
+npm-debug.log
