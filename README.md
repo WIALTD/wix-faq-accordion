@@ -2,8 +2,8 @@
 
 [![Live Demo](https://img.shields.io/badge/View-Live%20Demo-blue)](https://wialtd.github.io/wix-faq-accordion/)
 
-Custom FAQ accordion for Wix Studio sites, used in **Global Guide Group** to replace the
-default Wix FAQ widget, which is limited in functionality and visual appeal.
+Custom FAQ accordion for Wix Studio sites, used in **GlobalGuideGroup.com** to replace the
+default Wix FAQ widget, which is limited in functionality and has consistently poor line-spacing and thus poor visual appeal.
 
 This project provides a **clean, collapsible FAQ** with smooth animations and support for multiple questions, all fully controllable from Wix Dev Mode.
 
@@ -41,3 +41,17 @@ This project provides a **clean, collapsible FAQ** with smooth animations and su
 ---
 
 ## Project Structure
+
+
+├── index.html        # Live demo for GitHub Pages
+├── faqAccordion.js   # Core JS logic for the accordion
+├── README.md         # Documentation
+├── .gitignore
+└── .nojekyll
+
+---
+
+## License
+
+Free to use and modify for educational or commercial projects.  
+Attribution is appreciated if you find this helpful!
