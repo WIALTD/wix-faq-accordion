@@ -8,6 +8,13 @@ default Wix FAQ widget, which is limited in functionality and has consistently p
 This project provides a **clean, collapsible FAQ** with smooth animations and support for multiple questions, all fully controllable from Wix Dev Mode.
 
 ---
+## 📸 Visual Demo
+
+![FAQ Accordion Screenshot](assets/demo-screenshot.png)
+
+*Above: Example of the custom FAQ accordion in action.*
+
+---
 
 ## Features
 
