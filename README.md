@@ -24,12 +24,12 @@ This project provides a **clean, collapsible FAQ** with smooth animations and su
    - Ensure you can access `$w` for element IDs
 
 2. **Add Your FAQ Elements**
-   - Create boxes for each FAQ title button, and answer section and assign IDs like:
+   - Create container boxes for each FAQ title button, and answer section and assign IDs like:
      ```
      faqButton1, faqBox1, plus1, minus1
      faqButton2, faqBox2, plus2, minus2
      ```
-   - Repeat for as many questions as needed
+- For the non-technical, in dev mode in the bottom right of the screen you wil see the properties panel. This is where you can set the ID of a selected element, such as your container box used for the FAQ button, or dropdown where you will place your text element. Once you have it working, you can repeat for as many questions as needed, just by following the ID naming pattern with a greater number for each new FAQ. The code will scale automatically. 
 
 3. **Attach the Script**
    - Copy the `faqAccordion.js` content into your Wix site’s public JS file  
