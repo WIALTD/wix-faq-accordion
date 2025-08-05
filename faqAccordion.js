@@ -13,10 +13,12 @@
  *  - Scrolls the selected FAQ into view
  * 
  * Usage:
- *  1. Enable Wix Dev Mode and create boxes for each FAQ answer.
- *  2. Assign IDs like:
+ *  1. Create container boxes for each FAQ answer.
+ * Style as desired. Then turn on Dev Mode
+ *  2. Assign IDs in the Properties panel like:
  *        faqButton1, faqBox1, plus1, minus1
  *        faqButton2, faqBox2, plus2, minus2
+ * ... and so on for as many FAQs as you need. 
  *  3. Copy this script into your Wix site’s page code in dev mode at the bottom of the screen, or public JS file.
  *  4. Match the element IDs in Wix to the ones in this script.
  * 
