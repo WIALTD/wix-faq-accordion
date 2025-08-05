@@ -49,13 +49,13 @@ This project provides a **clean, collapsible FAQ** with smooth animations and su
 
 ## Project Structure
 
-
+```
 ├── index.html        # Live demo for GitHub Pages
 ├── faqAccordion.js   # Core JS logic for the accordion
 ├── README.md         # Documentation
 ├── .gitignore
 └── .nojekyll
-
+```
 ---
 
 ## License
