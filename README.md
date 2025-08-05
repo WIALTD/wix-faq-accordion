@@ -1,6 +1,10 @@
 # wix-faq-accordion
 
-[![Live Demo](https://img.shields.io/badge/View-Live%20Demo-blue)](https://wialtd.github.io/wix-faq-accordion/)
+[![View](https://img.shields.io/badge/View-Live%20Demo-blue)](https://wialtd.github.io/wix-faq-accordion/)
+[![Platform](https://img.shields.io/badge/Platform-Wix%20Studio-lightgrey)]()
+[![Purpose](https://img.shields.io/badge/Purpose-Educational-gold)]()
+[![Status](https://img.shields.io/badge/Status-Demo-green)]()
+
 
 Custom FAQ accordion for Wix Studio sites, used in **GlobalGuideGroup.com** to replace the
 default Wix FAQ widget, which is limited in functionality and has consistently poor line-spacing and thus poor visual appeal.
